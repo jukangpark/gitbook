@@ -6,4 +6,4 @@ category: Jekyll
 layout: post
 ---
 
-This is an about page.
+주강이의 About 페이지
